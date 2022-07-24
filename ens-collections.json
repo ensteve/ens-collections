@@ -1061,17 +1061,17 @@
 						"csv": ["months.csv"
 						]
 						},
-            { 					
-		        "name": "999 Club ENS Chinese",			
-		        "slug": "999-club-ens-chinese",			
-		        "description": "零零一 - 九百九十九 (001-999) Chinese Club (Simplified)",			
-		        "twitter": "999ClubENSCN",			
-		        "website": "",			
-		        "chat": "https://discord.gg/sazTKfrGYY",			
-		        "logo": "999-club-ens-chinese.png",			
-		        "csv": [			
-		        "999-club-ens-chinese.csv"			
-		        ]			
+            {
+		        "name": "999 Club ENS Chinese",
+		        "slug": "999-club-ens-chinese",
+		        "description": "零零一 - 九百九十九 (001-999) Chinese Club (Simplified)",
+		        "twitter": "999ClubENSCN",
+		        "website": "",
+		        "chat": "https://discord.gg/sazTKfrGYY",
+		        "logo": "999-club-ens-chinese.png",
+		        "csv": [
+		        "999-club-ens-chinese.csv"
+		        ]
 		        },
 				{
 					"name": "Braille 999 Club",
@@ -1140,7 +1140,7 @@
               "chat": "https://discord.com/invite/QqSPHBSu",
               "logo": "aus-999-club.png",
               "csv": ["aus-999-club.csv"]
-		
+
 							},
 							{
 								"name": "Skateboard Tricks",
@@ -1153,7 +1153,7 @@
 								"csv": [
 									"skateboard-tricks.csv"
 								]
-								},	
+								},
 								{
 								"name": "US 999 Club",
                             	"slug": "us-999-club",
@@ -1174,13 +1174,19 @@
 								"chat": "",
 								"logo": "dbz-characters.png",
 								"csv": ["dbz-characters.csv"]
-										}					
-				
+							},
+							{
+								"name": "Emoji N-N",
+								"slug": "Emoji N-N Club",
+								"description": "Just like the Hyphens N-N Club but with EMOJIS!",
+								"twitter": "",
+								"chat": "",
+								"website": "",
+								"logo": "",
+								"csv": [
+									"Emoji-N-N.csv"
+								]
+								}
+
    ]
 }
-		
-				
-   
-
-
-
