@@ -1176,15 +1176,15 @@
 								"csv": ["dbz-characters.csv"]
 							},
 							{
-								"name": "Emoji N-N",
-								"slug": "Emoji N-N Club",
-								"description": "Just like the Hyphens N-N Club but with EMOJIS!",
+								"name": "Emoji Hyphens 9-9",
+								"slug": "Emoji Hyphens 9-9",
+								"description": "100 Hyphenated Emoji Digits",
 								"twitter": "",
 								"chat": "",
 								"website": "",
 								"logo": "",
 								"csv": [
-									"Emoji-N-N.csv"
+									"Emoji-Hyphens-99.csv"
 								]
 								}
 
