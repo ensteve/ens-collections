@@ -1176,15 +1176,15 @@
 								"csv": ["dbz-characters.csv"]
 							},
 							{
-								"name": "Emoji Hyphens 9-9",
-								"slug": "Emoji Hyphens 9-9",
+								"name": "Hyphemojis 9-9",
+								"slug": "Hyphemojis 9-9",
 								"description": "100 Hyphenated Emoji Digits",
-								"twitter": "",
-								"chat": "",
+								"twitter": "Hyphmoji",
+								"chat": "https://discord.gg/X2bKAUdb6k",
 								"website": "",
-								"logo": "Emoji-Hyphens-99.png",
+								"logo": "Hyphmoji-99.png",
 								"csv": [
-									"Emoji-Hyphens-99.csv"
+									"Emoji-Hyphmoji-99.csv"
 								]
 								}
 
